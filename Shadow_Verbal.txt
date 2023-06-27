@@ -1,0 +1,25 @@
+com.example.nearbyplacesdemo - package name
+C:\users\lenovo\androidstudioprojects\nearbyplacesdemo
+
+31,677 cases of molestation 56,519 cases of kidnapping and many more such cases against women were registered in India in 2021. Hence, our probelm is women's safety. DEEPALI
+
+So, here we are actually trying to build a solution named Shadow.As nobody can destroy iron but its rust can KIRTIKA 
+
+in similar way,the wicked shadow which always tries to mentally and physically knock us down will be fought by our companion shadow. AYUSHI
+
+It will start with a simple login or registration form where the women will select 4-5 of her reliable contacts. SOMYA
+
+Our application will try to secure a woman's day by its exceptional features like DEEPALI
+
+notifying her about safety items before leaving her home, tracking her current location, providing her the safest route suggesting safe places and alerting her about abandoned locations while she reaches her final destination.KIRTIKA
+
+The women would be able to capture and send the vehicle's number plate to her trustworthy contacts automatically.
+In case she feels unsafe, she would be provided with features such as fake call and police siren. AYUSHI
+
+In case she is in danger, her GPS location along with a danger note via message and an emergency call would be axiomatically 
+sent to the police and her preselected contacts. SOMYA
+
+The Techstack we will be using is Android Studio with XML and Java.
+So as 3 minutes are up, and meanwhile we were presenting, a girl must have been illtreated which the data claims to be 1 case per minute across the globe. DEEPALI
+
+
